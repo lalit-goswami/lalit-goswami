@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lalit-goswami
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Kotlin, Jetpack compose, 
+- 🌱 I’m currently learning Kotlin, Jetpack compose, python, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
